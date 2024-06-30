@@ -1,8 +1,13 @@
-# React + Vite
+React Hook Form Learning Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React Hook Form learning repository! This project documents my journey and experiments with react-hook-form, a powerful library for managing forms in React. Through this repository, you'll find various examples, best practices, and solutions to common problems encountered when working with forms in React.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Basic Form Handling: Examples of simple forms with basic validation.
+Complex Form Handling: Handling complex forms with nested fields and arrays.
+Validation: Implementing various validation techniques including custom validations.
+Dynamic Fields: Adding and removing dynamic fields with useFieldArray.
+Third-Party Integration: Integrating react-hook-form with other libraries like yup for schema validation.
+Form Performance: Tips and tricks to optimize form performance and avoid unnecessary re-renders.
+Error Handling: Effective error handling and display for a better user experience.
+DevTools Integration: Using @hookform/devtools for debugging and development.
