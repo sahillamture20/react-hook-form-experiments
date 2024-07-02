@@ -1,5 +1,3 @@
-React Hook Form Learning Repository
-
 Welcome to my React Hook Form learning repository! This project documents my journey and experiments with react-hook-form, a powerful library for managing forms in React. Through this repository, you'll find various examples, best practices, and solutions to common problems encountered when working with forms in React.
 
 Features
